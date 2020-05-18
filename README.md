@@ -1,2 +1,3 @@
 # practice-projects
 project based learning
+This is Laura Omofuma, trying to learn python in the hopes of going back into IT and doing something great. It is hard sometimes, and I get distracted a lot of times, but I like the feeling that comes with accomplishing something new so I keep on striving. My goal this week is to dedicate 3 hours everyday for the rest of this week to project based learning. I want my work to be my life now, because this is the only thing I understand and relationships just leave me an emotional mess, so saying bye to them until I can make sense of them. That was really long, I hope no one reads this. 
